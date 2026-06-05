@@ -1,4 +1,4 @@
-package com.tecsup.authfirebaseappllanos.Entities
+package com.tecsup.authfirebaseappllanos.Model
 
 data class Curso(
     val id: String = "",
