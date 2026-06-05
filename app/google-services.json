@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437069284380",
+    "project_id": "authfirebaseappllanos",
+    "storage_bucket": "authfirebaseappllanos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437069284380:android:914c47b302636e07160bd9",
+        "android_client_info": {
+          "package_name": "com.tecsup.authfirebaseappllanos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiGaY7KTnnc6id0EMkdd66CHWgWc-fpcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
